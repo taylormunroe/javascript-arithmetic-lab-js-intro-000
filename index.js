@@ -9,10 +9,12 @@ function subtract(a, b){
   return number;
 }
 
-function multiply(){
-  2 * 3.4 // 6.8
-}
+function multiply(a, b){
+  number = a * b;
+  return number;}
 
-function divide(){
+function divide(a, b){
   5.0 / 2.5 // 2
+  number = a / b;
+  return number;
 }
