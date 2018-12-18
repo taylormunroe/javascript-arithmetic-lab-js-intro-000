@@ -6,6 +6,8 @@ function subtract(){
   60 - 40 // 20
 }
 
-function multiply()
+function multiply(){
+  2 * 3.4 // 6.8 
+}
 
 function divide()
