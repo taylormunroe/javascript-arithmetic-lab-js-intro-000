@@ -4,8 +4,9 @@ function add(a,b){
   return number;
 }
 
-function subtract(){
-  60 - 40 // 20
+function subtract(a, b){
+  number = a - b;
+  return number;
 }
 
 function multiply(){
